@@ -1,5 +1,7 @@
 # config.py
 
+import os
+
 BOT_TOKEN = "8337064277:AAHNggDbQ4dV536g1R-99rQISyjS3Uvkjzc"
 CHAT_ID = "8337064277"
 
